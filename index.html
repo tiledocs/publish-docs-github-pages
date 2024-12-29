@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>
+        Introduction - Publish Your Project Docs on GitHub Pages with TileDocs
+    </title>
+    <meta name="theme-color" content="#ffffff">
+    <meta name="description" content="How to Create and Publish Beautiful Documentation on GitHub Pages. In this guide, you'll learn how to create a documentation website for your project without writing any code, using frameworks, installing software, or setting up anything on your computer."/>
+    <link rel="icon" type="image/svg+xml" href="https://hub.tiledocs.com/publish-docs-github-pages/_images/seo/favicon.svg"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="https://hub.tiledocs.com/publish-docs-github-pages/_images/seo/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://hub.tiledocs.com/publish-docs-github-pages/_images/seo/favicon-16x16.png">    
+        
+    <meta property="og:image" content="https://hub.tiledocs.com/publish-docs-github-pages/_images/seo/og-image-1.png"/>
+    <meta property="og:url" content="https://hub.tiledocs.com/publish-docs-github-pages/">
+    <meta property="og:title" content="Introduction - Publish Your Project Docs on GitHub Pages with TileDocs" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="How to Create and Publish Beautiful Documentation on GitHub Pages. In this guide, you'll learn how to create a documentation website for your project without writing any code, using frameworks, installing software, or setting up anything on your computer."/>
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="@alex_pustovalov"/>
+    <meta name="twitter:title" content="Introduction - Publish Your Project Docs on GitHub Pages with TileDocs" />
+    <meta name="twitter:description" content="How to Create and Publish Beautiful Documentation on GitHub Pages. In this guide, you'll learn how to create a documentation website for your project without writing any code, using frameworks, installing software, or setting up anything on your computer." />
+    <meta name="twitter:image" content="https://hub.tiledocs.com/publish-docs-github-pages/_images/seo/og-image-1.png"/>
+
+    <link rel="canonical" href="https://hub.tiledocs.com/publish-docs-github-pages/">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin=""/>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&subset=latin&display=swap"
+          rel="stylesheet"/>
+    
+    <link rel="preload" href="https://hub.tiledocs.com/publish-docs-github-pages/_lib/index.css" as="style">
+    <link rel="stylesheet" href="https://hub.tiledocs.com/publish-docs-github-pages/_lib/index.css"/>
+    <style>
+        :root {
+            color-scheme: light dark;
+        }
+        html {
+            scroll-padding-top: 120px;
+            visibility: hidden;
+            opacity: 0;
+        }
+    </style>
+    <script>
+        function getInitialTheme() {
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            if (savedTheme === 'light' || savedTheme === 'dark') return savedTheme;
+            return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        const theme = getInitialTheme();
+        document.documentElement.classList.add('theme-' + theme);
+    </script>
+    
+</head>
+<body>
+
+<div id="root">
+    <sl-drawer id="menu-drawer" label="Tutorial" class="drawer__control" placement="top">
+        <div class="body__drawer">
+            <div class="items">
+                
+                    
+                        <sl-button 
+                            class="nav_button  current " 
+                            size="medium" 
+                            href="/publish-docs-github-pages/"
+                        >
+                            Tutorial
+                        </sl-button>
+                         
+                
+            </div>
+            <sl-divider class="divider__drawer"></sl-divider>
+            <nav class="tree">
+                <div class="scroll-panel">
+                    
+                        
+                            
+                            
+                            
+                                <sl-tree class="tree__with_lines" selection="leaf">
+                                    
+                                
+                                    
+                                        <sl-tree-item 
+                                            id="GL-lzA-xJ45GJipk9KiH5" 
+                                            style="--indent-level: 0"
+                                             selected 
+                                            class="leaf"
+                                        >
+                                            <a href="/publish-docs-github-pages/">Introduction</a>
+                                        </sl-tree-item>                                        
+                                    
+                                
+                                    
+                                        <sl-tree-item 
+                                            id="F8v3JHRqT_62A0z7RIZ6J" 
+                                            style="--indent-level: 0"
+                                            
+                                            class="leaf"
+                                        >
+                                            <a href="/publish-docs-github-pages/tutorial/setting-up-github-account/">Setting Up Account</a>
+                                        </sl-tree-item>                                        
+                                    
+                                
+                                    
+                                        <sl-tree-item 
+                                            id="DdnahJH4tnzZcsak4rDFk" 
+                                            style="--indent-level: 0"
+                                            
+                                            class="leaf"
+                                        >
+                                            <a href="/publish-docs-github-pages/tutorial/creating-github-repositories/">Creating Repositories</a>
+                                        </sl-tree-item>                                        
+                                    
+                                
+                            
+                                </sl-tree>
+                            
+                        
+                        
+                </div>
+            </nav>
+        </div>
+    </sl-drawer>
+
+    <div class="body__wrapper">
+        <div class="nav__container">
+            <nav>
+                <div class="border-box"></div>
+                <div class="logo">
+                    
+                        <div class="icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
+  <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
+  <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5z"/>
+</svg>
+                        </div>
+                    
+                    <div>
+                        
+                            <a href="https://hub.tiledocs.com"><span class="line-clamp-1">TileDocs Hub</span></a>
+                        
+                    </div>
+                </div>
+                <div class="items">
+                    <div class="container">
+                        
+                            
+                                <sl-button 
+                                    class="nav_button  current " 
+                                    size="medium" 
+                                    href="/publish-docs-github-pages/"
+                                >
+                                    Tutorial
+                                </sl-button>
+                                                    
+                        
+                    </div>
+                </div>
+                <div class="search">
+                    <div>
+                        <sl-button id="search-button" class="search_button">
+                            <sl-icon slot="prefix" name="search"></sl-icon>
+                            Search
+                            <div slot="suffix">
+                                <div class="button__prefix-wrapper">
+                                    <div class="button__prefix-container">
+                                        <sl-icon name="command"></sl-icon>
+                                        <span class="font-w-semibold">K</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </sl-button>
+                    </div>
+                    <div>
+                        <sl-dropdown id="theme-selector" hoist>
+                            <sl-button slot="trigger" class="nav_button">
+                                <sl-icon id="theme-selector-icon" slot="prefix" name="sun"></sl-icon>
+                            </sl-button>
+                            <sl-menu id="theme-selector-menu">
+                                <sl-menu-item type="checkbox" value="light">Light</sl-menu-item>
+                                <sl-menu-item type="checkbox" value="dark">Dark</sl-menu-item>
+                                <sl-menu-item type="checkbox" value="system">System</sl-menu-item>
+                            </sl-menu>
+                        </sl-dropdown>
+                    </div>
+                    <div class="menu">
+                        <sl-button id="menu-open-trigger" class="nav_button" outline>
+                            <sl-icon slot="prefix" name="list"></sl-icon>
+                        </sl-button>
+                    </div>
+                </div>
+            </nav>    
+        </div>
+        <div class="content__container">
+            <aside class="tree">
+                <nav id="nav-tree" class="tree">
+                    
+                        
+                            
+                            
+                            
+                                <sl-tree class="tree__with_lines" selection="leaf">
+                                    
+                                
+                                    
+                                        <sl-tree-item 
+                                            id="GL-lzA-xJ45GJipk9KiH5" 
+                                            style="--indent-level: 0"
+                                             selected 
+                                            class="leaf"
+                                        >
+                                            <a href="/publish-docs-github-pages/">Introduction</a>
+                                        </sl-tree-item>                                        
+                                    
+                                
+                                    
+                                        <sl-tree-item 
+                                            id="F8v3JHRqT_62A0z7RIZ6J" 
+                                            style="--indent-level: 0"
+                                            
+                                            class="leaf"
+                                        >
+                                            <a href="/publish-docs-github-pages/tutorial/setting-up-github-account/">Setting Up Account</a>
+                                        </sl-tree-item>                                        
+                                    
+                                
+                                    
+                                        <sl-tree-item 
+                                            id="DdnahJH4tnzZcsak4rDFk" 
+                                            style="--indent-level: 0"
+                                            
+                                            class="leaf"
+                                        >
+                                            <a href="/publish-docs-github-pages/tutorial/creating-github-repositories/">Creating Repositories</a>
+                                        </sl-tree-item>                                        
+                                    
+                                
+                            
+                                </sl-tree>
+                            
+                        
+                        
+                </nav>
+                <nav id="white-label-container" class="menu">
+                    <a class="white-label" href="https://tiledocs.com" target="_blank">
+                        <div class="card-container">
+                            <div class="icon-section">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
+                                    <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
+                                    <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5z"/>
+                                </svg>
+                            </div>
+                            <div class="title-section">
+                                <sl-tooltip hoist style="--max-width: 30ch;" placement="top-start" content="This documentation site was created using TileDocs, a fast and user-friendly editor for building and hosting documentation projects.">
+                                    <span>Made with TileDocs</span>
+                                <sl-tooltip>
+                            </div>
+                        </div>
+                    </a>
+                </nav>
+            </aside>
+            
+            <article>
+                <main>
+                    <div class="content">
+                        <h1 id="how-to-create-and-publish-beautiful-documentation-on-github-pages" dir="ltr"><span style="white-space: pre-wrap;">How to Create and Publish Beautiful Documentation on GitHub Pages</span></h1><p dir="ltr"><span style="white-space: pre-wrap;">In this guide, you'll learn how to create a documentation website for your project without writing any code, using frameworks, installing software, or setting up anything on your computer. </span></p><p dir="ltr"><span style="white-space: pre-wrap;">You’ll see how easy it is to write documentation in the online editor </span><a href="https://tiledocs.com" target="_blank" rel="noreferrer"><span style="white-space: pre-wrap;">TileDocs</span></a><span style="white-space: pre-wrap;"> and, with just one click, get a modern, stylish website hosted on GitHub Pages.</span></p><p dir="ltr"><span style="white-space: pre-wrap;">And the best part? </span><b><strong class="text-bold" style="white-space: pre-wrap;">Both the editor and hosting are completely free</strong></b><span style="white-space: pre-wrap;">. Most importantly, all your texts, data, images, and everything you create for </span><b><strong class="text-bold" style="white-space: pre-wrap;">your documentation site will always belong to you</strong></b><span style="white-space: pre-wrap;"> and only you. But more on that later…</span></p><div class="callout-box-wrapper"><div class="callout-box" style="background-color: var(--sl-color-primary-50); border: 1px solid var(--sl-color-primary-200);"><div class="callout-box-icon"><sl-icon name="info-circle-fill" style="color: var(--sl-color-primary-400);"></sl-icon></div><div class="callout-box-content" style="color: var(--sl-color-primary-600);"><p dir="ltr"><b><strong style="font-size: var(--sl-font-size-large); white-space: pre-wrap;">Keep in mind</strong></b></p><p><span style="white-space: pre-wrap;">that you only need to create your GitHub account and repository once. </span></p><p dir="ltr"><br></p><p dir="ltr"><span style="white-space: pre-wrap;">After that, you can focus on writing your documentation without worrying about publishing updates - TileDocs will handle everything for you.</span></p></div></div></div><p dir="ltr"><span style="white-space: pre-wrap;">Let’s get started. If we want to use GitHub for hosting, we’ll need a GitHub account. </span></p><p dir="ltr"><span style="white-space: pre-wrap;">Already have one? Great - skip the account creation section and jump straight to creating a repository.</span></p><div class="layout-grid-wrapper layout-grid-2-columns"><div class="layout-grid-cell"><a class="card-container icon-card-wrapper icon-card-wrapper-vertical" href="/publish-docs-github-pages/tutorial/setting-up-github-account/"><div class="icon-card-icon-section"><div class="icon-card-icon" style="width: 2em; min-width: 2em; height: 2em; min-height: 2em;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16">
+  <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0"></path>
+  <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8m8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1"></path>
+</svg></div></div><div class="icon-card-content-section"><p dir="ltr"><b><strong style="white-space: pre-wrap;">Setting Up Your GitHub Account</strong></b></p><p><span style="font-size: var(--sl-font-size-small); color: var(--sl-color-gray-600); white-space: pre-wrap;">A step-by-step guide to creating a GitHub account</span></p></div></a></div><div class="layout-grid-cell"><a class="card-container icon-card-wrapper icon-card-wrapper-vertical" href="/publish-docs-github-pages/tutorial/creating-github-repositories/"><div class="icon-card-icon-section"><div class="icon-card-icon" style="width: 2em; min-width: 2em; height: 2em; min-height: 2em;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-database-add" viewBox="0 0 16 16">
+  <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0"></path>
+  <path d="M12.096 6.223A5 5 0 0 0 13 5.698V7c0 .289-.213.654-.753 1.007a4.5 4.5 0 0 1 1.753.25V4c0-1.007-.875-1.755-1.904-2.223C11.022 1.289 9.573 1 8 1s-3.022.289-4.096.777C2.875 2.245 2 2.993 2 4v9c0 1.007.875 1.755 1.904 2.223C4.978 15.71 6.427 16 8 16c.536 0 1.058-.034 1.555-.097a4.5 4.5 0 0 1-.813-.927Q8.378 15 8 15c-1.464 0-2.766-.27-3.682-.687C3.356 13.875 3 13.373 3 13v-1.302c.271.202.58.378.904.525C4.978 12.71 6.427 13 8 13h.027a4.6 4.6 0 0 1 0-1H8c-1.464 0-2.766-.27-3.682-.687C3.356 10.875 3 10.373 3 10V8.698c.271.202.58.378.904.525C4.978 9.71 6.427 10 8 10q.393 0 .774-.024a4.5 4.5 0 0 1 1.102-1.132C9.298 8.944 8.666 9 8 9c-1.464 0-2.766-.27-3.682-.687C3.356 7.875 3 7.373 3 7V5.698c.271.202.58.378.904.525C4.978 6.711 6.427 7 8 7s3.022-.289 4.096-.777M3 4c0-.374.356-.875 1.318-1.313C5.234 2.271 6.536 2 8 2s2.766.27 3.682.687C12.644 3.125 13 3.627 13 4c0 .374-.356.875-1.318 1.313C10.766 5.729 9.464 6 8 6s-2.766-.27-3.682-.687C3.356 4.875 3 4.373 3 4"></path>
+</svg></div></div><div class="icon-card-content-section"><p dir="ltr"><b><strong style="white-space: pre-wrap;">Creating Repositories on GitHub</strong></b></p><p><span style="font-size: var(--sl-font-size-small); color: var(--sl-color-gray-600); white-space: pre-wrap;">work in progress...</span></p></div></a></div></div>
+                    </div>
+                </main>
+                <div class="footer">
+                    <div class="content">
+                        <div class="date">
+                            <div>Dec 29, 2024</div>
+                        </div>
+                         <div></div> 
+                        
+                            <a href="/publish-docs-github-pages/tutorial/setting-up-github-account/" class="column right-column" title="Setting Up Account">
+                                <div class="label">
+                                    <div class="title">NEXT</div>
+                                    <div class="line-clamp-2">
+                                        Setting Up Account
+                                    </div>
+                                </div>
+                                <div class="icon">
+                                    <sl-icon name="chevron-right"></sl-icon>
+                                </div>
+                            </a>
+                        
+                    </div>
+                </div>
+            </article>
+            <aside class="toc">
+                <nav class="toc">
+                    
+                </nav>
+            </aside>
+        </div>
+        <footer>
+            <div class="stack__column stack__gap-4 stack__center">
+                
+                <div class="stack__row stack__center">
+                    <span><span>Year &copy; Company Name</span></span>
+                </div>
+            </div>
+        </footer>
+    </div>
+</div>
+<sl-dialog id="search-dialog" class="dialog_control dialog__search">
+    <div slot="label">
+        <p>Search</p>
+    </div>
+    <div class="pane stack__column stack__gap-4">
+        <div>
+            <sl-input
+                id="search-input"
+                type="text"
+                size="small"
+                autocomplete="off"
+                autofocus
+                clearable
+                placeholder="Type text you want to search..."
+            >
+            </sl-input>
+        </div>
+        <div id="search-result" class="stack__column stack__gap-4 search-result">
+        </div>
+        <div id="search-footer" class="footer"></div>
+    </div>
+</sl-dialog>
+<script type="module" src="https://hub.tiledocs.com/publish-docs-github-pages/_lib/index.js" data-shoelace="https://hub.tiledocs.com/publish-docs-github-pages/_lib"></script>
+<script type="module">
+    import {initPage, initTheme, initSearch, initToc} from 'https://hub.tiledocs.com/publish-docs-github-pages/_lib/init.js';
+    import {preInitTree} from 'https://hub.tiledocs.com/publish-docs-github-pages/_lib/pre.js';
+    preInitTree();
+    await initPage();
+    await initTheme('light');
+    await initSearch('https://hub.tiledocs.com/publish-docs-github-pages', '1735471799508');
+    document.documentElement.style.visibility = 'visible';
+    document.documentElement.style.opacity = '1';
+    initToc();
+</script>
+
+</body>
+</html>

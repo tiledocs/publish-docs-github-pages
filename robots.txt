@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hub.tiledocs.com/publish-docs-github-pages/sitemap_index.xml

@@ -1,0 +1,5986 @@
+{
+    "version": "2.3.9",
+    "fields": [
+        "title",
+        "text"
+    ],
+    "fieldVectors": [
+        [
+            "title//publish-docs-github-pages/",
+            [
+                0,
+                1.233
+            ]
+        ],
+        [
+            "text//publish-docs-github-pages/",
+            [
+                1,
+                1.472,
+                2,
+                0.88,
+                3,
+                0.766,
+                4,
+                0.862,
+                5,
+                0.9,
+                6,
+                0.9,
+                7,
+                1.687,
+                8,
+                0.238,
+                9,
+                0.25,
+                10,
+                0.9,
+                11,
+                0.766,
+                12,
+                0.431,
+                13,
+                0.9,
+                14,
+                0.9,
+                15,
+                0.9,
+                16,
+                0.839,
+                17,
+                0.609,
+                18,
+                0.766,
+                19,
+                0.862,
+                20,
+                0.9,
+                21,
+                1.271,
+                22,
+                1.271,
+                23,
+                0.431,
+                24,
+                0.9,
+                25,
+                0.431,
+                26,
+                0.9,
+                27,
+                0.9,
+                28,
+                0.9,
+                29,
+                0.431,
+                30,
+                0.173,
+                31,
+                0.173,
+                32,
+                0.9,
+                33,
+                0.9,
+                34,
+                0.431,
+                35,
+                0.9,
+                36,
+                0.9,
+                37,
+                0.431,
+                38,
+                0.9,
+                39,
+                0.9,
+                40,
+                0.766,
+                41,
+                0.431,
+                42,
+                1.271,
+                43,
+                1.271,
+                44,
+                0.9,
+                45,
+                0.431,
+                46,
+                0.9,
+                47,
+                0.9,
+                48,
+                0.9,
+                49,
+                1.271,
+                50,
+                0.9,
+                51,
+                0.9,
+                52,
+                0.9,
+                53,
+                0.9,
+                54,
+                0.9,
+                55,
+                0.9,
+                56,
+                0.9,
+                57,
+                0.9,
+                58,
+                0.431,
+                59,
+                0.9,
+                60,
+                0.9,
+                61,
+                0.431,
+                62,
+                0.9,
+                63,
+                0.9,
+                64,
+                0.9,
+                65,
+                0.9,
+                66,
+                0.9,
+                67,
+                0.9,
+                68,
+                1.271,
+                69,
+                0.766,
+                70,
+                0.9,
+                71,
+                0.609,
+                72,
+                0.9,
+                73,
+                0.9,
+                74,
+                1.271,
+                75,
+                1.271,
+                76,
+                0.9,
+                77,
+                0.9,
+                78,
+                0.609,
+                79,
+                0.9,
+                80,
+                0.9,
+                81,
+                0.9,
+                82,
+                1.271,
+                83,
+                0.218,
+                84,
+                0.9,
+                85,
+                0.9,
+                86,
+                0.431,
+                87,
+                0.9,
+                88,
+                0.431,
+                89,
+                0.9,
+                90,
+                0.9,
+                91,
+                0.9,
+                92,
+                0.9,
+                93,
+                0.9,
+                94,
+                0.9,
+                95,
+                0.431,
+                96,
+                0.9,
+                97,
+                0.431,
+                98,
+                0.9,
+                99,
+                0.9,
+                100,
+                0.9,
+                101,
+                0.9,
+                102,
+                0.9,
+                103,
+                0.431,
+                104,
+                0.431,
+                105,
+                0.431,
+                106,
+                0.9,
+                107,
+                0.9,
+                108,
+                0.431,
+                109,
+                0.9,
+                110,
+                0.9,
+                111,
+                0.9,
+                112,
+                0.431,
+                113,
+                0.158,
+                114,
+                0.431,
+                115,
+                0.609,
+                116,
+                0.431,
+                117,
+                0.431,
+                118,
+                0.123,
+                119,
+                0.9,
+                120,
+                0.9
+            ]
+        ],
+        [
+            "title//publish-docs-github-pages/tutorial/setting-up-github-account/",
+            [
+                30,
+                0.111,
+                31,
+                0.111,
+                83,
+                0.111
+            ]
+        ],
+        [
+            "text//publish-docs-github-pages/tutorial/setting-up-github-account/",
+            [
+                2,
+                0.856,
+                3,
+                0.36,
+                4,
+                0.816,
+                8,
+                0.2,
+                9,
+                0.224,
+                11,
+                0.636,
+                12,
+                0.36,
+                16,
+                0.894,
+                17,
+                0.534,
+                18,
+                0.534,
+                19,
+                0.894,
+                23,
+                0.36,
+                25,
+                0.36,
+                29,
+                0.636,
+                30,
+                0.102,
+                31,
+                0.152,
+                34,
+                0.534,
+                37,
+                0.636,
+                40,
+                0.931,
+                41,
+                0.36,
+                45,
+                0.36,
+                58,
+                0.36,
+                61,
+                0.704,
+                69,
+                0.704,
+                71,
+                0.636,
+                78,
+                0.36,
+                83,
+                0.2,
+                86,
+                0.36,
+                88,
+                0.36,
+                95,
+                0.36,
+                97,
+                0.36,
+                103,
+                0.36,
+                104,
+                0.36,
+                105,
+                0.36,
+                108,
+                0.534,
+                112,
+                0.36,
+                113,
+                0.12,
+                114,
+                0.36,
+                115,
+                0.636,
+                116,
+                0.36,
+                117,
+                0.36,
+                121,
+                1.328,
+                122,
+                0.75,
+                123,
+                0.75,
+                124,
+                0.75,
+                125,
+                0.75,
+                126,
+                0.75,
+                127,
+                0.75,
+                128,
+                0.75,
+                129,
+                0.75,
+                130,
+                0.75,
+                131,
+                0.75,
+                132,
+                0.75,
+                133,
+                0.75,
+                134,
+                0.75,
+                135,
+                0.75,
+                136,
+                1.114,
+                137,
+                0.75,
+                138,
+                0.75,
+                139,
+                0.75,
+                140,
+                0.75,
+                141,
+                0.75,
+                142,
+                0.75,
+                143,
+                1.114,
+                144,
+                1.114,
+                145,
+                0.75,
+                146,
+                0.75,
+                147,
+                0.75,
+                148,
+                0.75,
+                149,
+                1.569,
+                150,
+                0.75,
+                151,
+                0.75,
+                152,
+                0.75,
+                153,
+                0.75,
+                154,
+                1.114,
+                155,
+                1.702,
+                156,
+                1.328,
+                157,
+                0.75,
+                158,
+                0.75,
+                159,
+                0.75,
+                160,
+                1.114,
+                161,
+                1.328,
+                162,
+                1.114,
+                163,
+                0.75,
+                164,
+                0.75,
+                165,
+                1.114,
+                166,
+                0.75,
+                167,
+                1.328,
+                168,
+                0.75,
+                169,
+                0.75,
+                170,
+                0.75,
+                171,
+                0.75,
+                172,
+                0.75,
+                173,
+                0.75,
+                174,
+                0.75,
+                175,
+                1.114,
+                176,
+                1.114,
+                177,
+                1.114,
+                178,
+                0.75,
+                179,
+                0.75,
+                180,
+                0.75,
+                181,
+                0.75,
+                182,
+                0.75,
+                183,
+                0.75,
+                184,
+                0.75,
+                185,
+                0.75,
+                186,
+                0.75,
+                187,
+                0.75,
+                188,
+                0.75,
+                189,
+                0.75,
+                190,
+                0.75,
+                191,
+                0.75,
+                192,
+                0.75,
+                193,
+                0.75,
+                194,
+                0.75,
+                195,
+                0.75,
+                196,
+                0.75,
+                197,
+                0.75,
+                198,
+                0.75,
+                199,
+                0.75,
+                200,
+                0.75,
+                201,
+                0.75,
+                202,
+                0.75,
+                203,
+                0.75,
+                204,
+                0.75,
+                205,
+                0.75,
+                206,
+                0.75,
+                207,
+                1.114,
+                208,
+                0.75,
+                209,
+                1.114,
+                210,
+                0.75,
+                211,
+                0.75,
+                212,
+                0.75,
+                213,
+                0.75,
+                214,
+                0.75,
+                215,
+                0.75,
+                216,
+                0.75,
+                217,
+                0.75,
+                218,
+                0.75,
+                219,
+                1.114,
+                220,
+                0.75,
+                221,
+                0.75,
+                222,
+                0.75,
+                223,
+                1.114,
+                224,
+                0.75,
+                225,
+                0.75,
+                226,
+                0.75,
+                227,
+                0.75,
+                228,
+                0.75,
+                229,
+                0.75,
+                230,
+                0.75,
+                231,
+                1.114,
+                232,
+                0.75,
+                233,
+                0.75,
+                234,
+                0.75,
+                235,
+                0.75,
+                236,
+                1.114,
+                237,
+                0.75,
+                238,
+                0.75,
+                239,
+                0.75,
+                240,
+                0.75,
+                241,
+                0.75,
+                242,
+                0.75,
+                243,
+                0.75
+            ]
+        ],
+        [
+            "title//publish-docs-github-pages/tutorial/creating-github-repositories/",
+            [
+                113,
+                0.105,
+                118,
+                0.134
+            ]
+        ],
+        [
+            "text//publish-docs-github-pages/tutorial/creating-github-repositories/",
+            [
+                8,
+                0.221,
+                9,
+                0.221,
+                113,
+                0.175,
+                118,
+                0.221,
+                244,
+                1.625
+            ]
+        ]
+    ],
+    "invertedIndex": [
+        [
+            "(it",
+            {
+                "_index": 212,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1088,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "(optional)",
+            {
+                "_index": 237,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1476,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            ",",
+            {
+                "_index": 148,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                390,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            ".",
+            {
+                "_index": 61,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                485,
+                                1
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                564,
+                                1
+                            ],
+                            [
+                                698,
+                                1
+                            ],
+                            [
+                                934,
+                                1
+                            ],
+                            [
+                                1130,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "1",
+            {
+                "_index": 142,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                312,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "2",
+            {
+                "_index": 153,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                426,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "3",
+            {
+                "_index": 166,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                566,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "4",
+            {
+                "_index": 174,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                700,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "5",
+            {
+                "_index": 196,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                936,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "6",
+            {
+                "_index": 204,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1015,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "7",
+            {
+                "_index": 218,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1132,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "8",
+            {
+                "_index": 230,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1334,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "9",
+            {
+                "_index": 235,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1453,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "[wip]",
+            {
+                "_index": 244,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                32,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "a",
+            {
+                "_index": 16,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                108,
+                                1
+                            ],
+                            [
+                                367,
+                                1
+                            ],
+                            [
+                                948,
+                                1
+                            ],
+                            [
+                                1057,
+                                1
+                            ],
+                            [
+                                1112,
+                                1
+                            ],
+                            [
+                                1145,
+                                1
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                150,
+                                1
+                            ],
+                            [
+                                262,
+                                1
+                            ],
+                            [
+                                295,
+                                1
+                            ],
+                            [
+                                575,
+                                1
+                            ],
+                            [
+                                586,
+                                1
+                            ],
+                            [
+                                615,
+                                1
+                            ],
+                            [
+                                647,
+                                1
+                            ],
+                            [
+                                709,
+                                1
+                            ],
+                            [
+                                744,
+                                1
+                            ],
+                            [
+                                956,
+                                1
+                            ],
+                            [
+                                1600,
+                                1
+                            ],
+                            [
+                                1660,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "about",
+            {
+                "_index": 91,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                812,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "account",
+            {
+                "_index": 83,
+                "title": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                11,
+                                7
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                709,
+                                7
+                            ],
+                            [
+                                1002,
+                                7
+                            ],
+                            [
+                                1104,
+                                7
+                            ],
+                            [
+                                1154,
+                                7
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                23,
+                                7
+                            ],
+                            [
+                                304,
+                                7
+                            ],
+                            [
+                                1351,
+                                7
+                            ],
+                            [
+                                1550,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "account.",
+            {
+                "_index": 103,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                957,
+                                8
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1609,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "address",
+            {
+                "_index": 156,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                445,
+                                7
+                            ],
+                            [
+                                490,
+                                7
+                            ],
+                            [
+                                1177,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "after",
+            {
+                "_index": 86,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                739,
+                                5
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1359,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "all",
+            {
+                "_index": 64,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                505,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "already",
+            {
+                "_index": 104,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                967,
+                                7
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                809,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "always",
+            {
+                "_index": 72,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                595,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "and",
+            {
+                "_index": 4,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                14,
+                                3
+                            ],
+                            [
+                                417,
+                                3
+                            ],
+                            [
+                                453,
+                                3
+                            ],
+                            [
+                                535,
+                                3
+                            ],
+                            [
+                                617,
+                                3
+                            ],
+                            [
+                                717,
+                                3
+                            ],
+                            [
+                                1027,
+                                3
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                210,
+                                3
+                            ],
+                            [
+                                392,
+                                3
+                            ],
+                            [
+                                542,
+                                3
+                            ],
+                            [
+                                1206,
+                                3
+                            ],
+                            [
+                                1280,
+                                3
+                            ],
+                            [
+                                1423,
+                                3
+                            ],
+                            [
+                                1526,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "and,",
+            {
+                "_index": 44,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                337,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "any",
+            {
+                "_index": 23,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                165,
+                                3
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1500,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "anything",
+            {
+                "_index": 32,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                228,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "appear",
+            {
+                "_index": 190,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                865,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "appear.",
+            {
+                "_index": 171,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                633,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "appropriate,",
+            {
+                "_index": 188,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                841,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "are",
+            {
+                "_index": 58,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                465,
+                                3
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                805,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "as",
+            {
+                "_index": 189,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                854,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "asked",
+            {
+                "_index": 178,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                730,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "be",
+            {
+                "_index": 177,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                727,
+                                2
+                            ],
+                            [
+                                772,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "beautiful",
+            {
+                "_index": 6,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                26,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "because",
+            {
+                "_index": 183,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                782,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "belong",
+            {
+                "_index": 73,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                602,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "best",
+            {
+                "_index": 54,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                425,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "both",
+            {
+                "_index": 56,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                437,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "browser,",
+            {
+                "_index": 145,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                349,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "but",
+            {
+                "_index": 76,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                631,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "button",
+            {
+                "_index": 201,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                985,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "button.",
+            {
+                "_index": 152,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                418,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "by",
+            {
+                "_index": 116,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                1119,
+                                2
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                269,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "can",
+            {
+                "_index": 88,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                755,
+                                3
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1491,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "captcha",
+            {
+                "_index": 206,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1027,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "challenge",
+            {
+                "_index": 210,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1068,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "choose",
+            {
+                "_index": 175,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                702,
+                                6
+                            ],
+                            [
+                                824,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "click",
+            {
+                "_index": 149,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                396,
+                                5
+                            ],
+                            [
+                                546,
+                                5
+                            ],
+                            [
+                                680,
+                                5
+                            ],
+                            [
+                                964,
+                                5
+                            ],
+                            [
+                                1114,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "click,",
+            {
+                "_index": 48,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                356,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "code",
+            {
+                "_index": 226,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1260,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "code,",
+            {
+                "_index": 24,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                169,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "complete",
+            {
+                "_index": 209,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1055,
+                                8
+                            ],
+                            [
+                                1134,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "completely",
+            {
+                "_index": 59,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                469,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "complicated,",
+            {
+                "_index": 127,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                100,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "computer.",
+            {
+                "_index": 33,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                245,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "congratulations!",
+            {
+                "_index": 240,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1569,
+                                16
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "copy",
+            {
+                "_index": 225,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1238,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "create",
+            {
+                "_index": 3,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                7,
+                                6
+                            ],
+                            [
+                                101,
+                                6
+                            ],
+                            [
+                                554,
+                                6
+                            ],
+                            [
+                                690,
+                                6
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                568,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "created.",
+            {
+                "_index": 234,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1444,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "creating",
+            {
+                "_index": 113,
+                "title": {
+                    "/publish-docs-github-pages/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                0,
+                                8
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                1048,
+                                8
+                            ],
+                            [
+                                1136,
+                                8
+                            ],
+                            [
+                                1172,
+                                8
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                286,
+                                8
+                            ],
+                            [
+                                1651,
+                                8
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                0,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "creation",
+            {
+                "_index": 109,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                1010,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "dashboard.",
+            {
+                "_index": 239,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1558,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "data",
+            {
+                "_index": 137,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                205,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "data,",
+            {
+                "_index": 66,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                521,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "documentation",
+            {
+                "_index": 7,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                36,
+                                13
+                            ],
+                            [
+                                110,
+                                13
+                            ],
+                            [
+                                291,
+                                13
+                            ],
+                            [
+                                571,
+                                13
+                            ],
+                            [
+                                781,
+                                13
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "done,",
+            {
+                "_index": 216,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1108,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "don’t",
+            {
+                "_index": 128,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                113,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "earlier",
+            {
+                "_index": 221,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1198,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "easy",
+            {
+                "_index": 36,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                271,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "editor",
+            {
+                "_index": 42,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                319,
+                                6
+                            ],
+                            [
+                                446,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "email",
+            {
+                "_index": 155,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                439,
+                                5
+                            ],
+                            [
+                                484,
+                                5
+                            ],
+                            [
+                                1143,
+                                5
+                            ],
+                            [
+                                1171,
+                                5
+                            ],
+                            [
+                                1219,
+                                5
+                            ],
+                            [
+                                1274,
+                                5
+                            ],
+                            [
+                                1417,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "email,",
+            {
+                "_index": 233,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1380,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "email”",
+            {
+                "_index": 164,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                534,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "enter",
+            {
+                "_index": 154,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                428,
+                                5
+                            ],
+                            [
+                                641,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "everything",
+            {
+                "_index": 68,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                539,
+                                10
+                            ],
+                            [
+                                860,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "fantastic",
+            {
+                "_index": 133,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                152,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "field",
+            {
+                "_index": 161,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                507,
+                                5
+                            ],
+                            [
+                                592,
+                                5
+                            ],
+                            [
+                                1302,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "find",
+            {
+                "_index": 222,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1210,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "focus",
+            {
+                "_index": 89,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                759,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "for",
+            {
+                "_index": 18,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                132,
+                                3
+                            ],
+                            [
+                                561,
+                                3
+                            ],
+                            [
+                                871,
+                                3
+                            ],
+                            [
+                                924,
+                                3
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                127,
+                                3
+                            ],
+                            [
+                                239,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "frameworks,",
+            {
+                "_index": 26,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                181,
+                                11
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "free",
+            {
+                "_index": 60,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                480,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "from",
+            {
+                "_index": 223,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1225,
+                                4
+                            ],
+                            [
+                                1265,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "get",
+            {
+                "_index": 49,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                363,
+                                3
+                            ],
+                            [
+                                886,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "github",
+            {
+                "_index": 9,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                53,
+                                6
+                            ],
+                            [
+                                403,
+                                6
+                            ],
+                            [
+                                702,
+                                6
+                            ],
+                            [
+                                917,
+                                6
+                            ],
+                            [
+                                950,
+                                6
+                            ],
+                            [
+                                1097,
+                                6
+                            ],
+                            [
+                                1147,
+                                6
+                            ],
+                            [
+                                1197,
+                                6
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                16,
+                                6
+                            ],
+                            [
+                                57,
+                                6
+                            ],
+                            [
+                                297,
+                                6
+                            ],
+                            [
+                                324,
+                                6
+                            ],
+                            [
+                                1321,
+                                6
+                            ],
+                            [
+                                1602,
+                                6
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                25,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "github.",
+            {
+                "_index": 224,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1230,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "go",
+            {
+                "_index": 143,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                314,
+                                2
+                            ],
+                            [
+                                1530,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "great",
+            {
+                "_index": 107,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                985,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "guide",
+            {
+                "_index": 117,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                1127,
+                                5
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                277,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "guide,",
+            {
+                "_index": 13,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                74,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "handle",
+            {
+                "_index": 94,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                853,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "have",
+            {
+                "_index": 105,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                975,
+                                4
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1595,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "host",
+            {
+                "_index": 138,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                214,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "hosted",
+            {
+                "_index": 52,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                393,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "hosting",
+            {
+                "_index": 57,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                457,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "hosting,",
+            {
+                "_index": 101,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                928,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "how",
+            {
+                "_index": 1,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                0,
+                                3
+                            ],
+                            [
+                                94,
+                                3
+                            ],
+                            [
+                                267,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "https://account",
+            {
+                "_index": 194,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                903,
+                                15
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "https://github.com",
+            {
+                "_index": 147,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                371,
+                                18
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "human.",
+            {
+                "_index": 203,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1008,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "if",
+            {
+                "_index": 97,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                899,
+                                2
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                31,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "images,",
+            {
+                "_index": 67,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                527,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "importantly,",
+            {
+                "_index": 63,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                492,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "in",
+            {
+                "_index": 11,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                66,
+                                2
+                            ],
+                            [
+                                305,
+                                2
+                            ],
+                            [
+                                660,
+                                2
+                            ],
+                            [
+                                1209,
+                                2
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                872,
+                                2
+                            ],
+                            [
+                                1340,
+                                2
+                            ],
+                            [
+                                1391,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "installing",
+            {
+                "_index": 27,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                193,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "into",
+            {
+                "_index": 160,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                498,
+                                4
+                            ],
+                            [
+                                1293,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "introduction",
+            {
+                "_index": 0,
+                "title": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                0,
+                                12
+                            ]
+                        ]
+                    }
+                },
+                "text": {}
+            }
+        ],
+        [
+            "is",
+            {
+                "_index": 38,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                279,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "it",
+            {
+                "_index": 37,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                276,
+                                2
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                73,
+                                2
+                            ],
+                            [
+                                857,
+                                2
+                            ],
+                            [
+                                1290,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "it’s",
+            {
+                "_index": 132,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                145,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "jump",
+            {
+                "_index": 111,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                1031,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "just",
+            {
+                "_index": 46,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                347,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "keep",
+            {
+                "_index": 80,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                655,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "labeled",
+            {
+                "_index": 162,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                513,
+                                7
+                            ],
+                            [
+                                598,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "later…",
+            {
+                "_index": 79,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                648,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "learn",
+            {
+                "_index": 15,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                88,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "let’s",
+            {
+                "_index": 95,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                880,
+                                5
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1619,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "like",
+            {
+                "_index": 192,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                892,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "log",
+            {
+                "_index": 231,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1336,
+                                3
+                            ],
+                            [
+                                1387,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "many",
+            {
+                "_index": 184,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                790,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "may",
+            {
+                "_index": 213,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1092,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "might",
+            {
+                "_index": 181,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                766,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "mind",
+            {
+                "_index": 81,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                663,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "modern,",
+            {
+                "_index": 50,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                369,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "more",
+            {
+                "_index": 77,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                635,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "most",
+            {
+                "_index": 62,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                487,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "move",
+            {
+                "_index": 242,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1625,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "name.github.io",
+            {
+                "_index": 195,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                919,
+                                14
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "navigate",
+            {
+                "_index": 146,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                358,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "need",
+            {
+                "_index": 82,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                682,
+                                4
+                            ],
+                            [
+                                943,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "new",
+            {
+                "_index": 168,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                588,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "next",
+            {
+                "_index": 207,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1042,
+                                4
+                            ],
+                            [
+                                1640,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "not",
+            {
+                "_index": 198,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                952,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "now",
+            {
+                "_index": 241,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1591,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "on",
+            {
+                "_index": 8,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                50,
+                                2
+                            ],
+                            [
+                                237,
+                                2
+                            ],
+                            [
+                                400,
+                                2
+                            ],
+                            [
+                                640,
+                                2
+                            ],
+                            [
+                                765,
+                                2
+                            ],
+                            [
+                                1194,
+                                2
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                453,
+                                2
+                            ],
+                            [
+                                1035,
+                                2
+                            ],
+                            [
+                                1314,
+                                2
+                            ],
+                            [
+                                1630,
+                                2
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                22,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "once",
+            {
+                "_index": 215,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1103,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "once.",
+            {
+                "_index": 85,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                732,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "one",
+            {
+                "_index": 47,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                352,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "one?",
+            {
+                "_index": 106,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                980,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "online",
+            {
+                "_index": 41,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                312,
+                                6
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                162,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "only",
+            {
+                "_index": 74,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                621,
+                                4
+                            ],
+                            [
+                                677,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "open",
+            {
+                "_index": 144,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                339,
+                                4
+                            ],
+                            [
+                                1162,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "or",
+            {
+                "_index": 29,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                214,
+                                2
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                64,
+                                2
+                            ],
+                            [
+                                97,
+                                2
+                            ],
+                            [
+                                1414,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "our",
+            {
+                "_index": 130,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                131,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "page,",
+            {
+                "_index": 158,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                468,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "page.",
+            {
+                "_index": 229,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1328,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "pages",
+            {
+                "_index": 10,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                60,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "pages.",
+            {
+                "_index": 53,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                410,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "part?",
+            {
+                "_index": 55,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                430,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "password",
+            {
+                "_index": 167,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                577,
+                                8
+                            ],
+                            [
+                                649,
+                                8
+                            ],
+                            [
+                                1431,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "password”",
+            {
+                "_index": 170,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                617,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "paste",
+            {
+                "_index": 227,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1284,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "personalization",
+            {
+                "_index": 236,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1460,
+                                15
+                            ],
+                            [
+                                1504,
+                                15
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "pick",
+            {
+                "_index": 179,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                739,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "presented",
+            {
+                "_index": 211,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1078,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "progress...",
+            {
+                "_index": 120,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                1212,
+                                11
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "project",
+            {
+                "_index": 20,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                141,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "prove",
+            {
+                "_index": 202,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                995,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "provided",
+            {
+                "_index": 220,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1189,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "public",
+            {
+                "_index": 140,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                247,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "publish",
+            {
+                "_index": 5,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                18,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "publishing",
+            {
+                "_index": 92,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                818,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "purposes,",
+            {
+                "_index": 131,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                135,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "remember,",
+            {
+                "_index": 172,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                665,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "repositories",
+            {
+                "_index": 118,
+                "title": {
+                    "/publish-docs-github-pages/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                9,
+                                12
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                1181,
+                                12
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/creating-github-repositories/": {
+                        "position": [
+                            [
+                                9,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "repository",
+            {
+                "_index": 84,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                721,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "repository.",
+            {
+                "_index": 114,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                1059,
+                                11
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1662,
+                                11
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "robot",
+            {
+                "_index": 199,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                958,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "screen,",
+            {
+                "_index": 208,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1047,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "section",
+            {
+                "_index": 110,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                1019,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "see",
+            {
+                "_index": 35,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                263,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "see.",
+            {
+                "_index": 141,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                257,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "service",
+            {
+                "_index": 134,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                169,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "setting",
+            {
+                "_index": 30,
+                "title": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                0,
+                                7
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                217,
+                                7
+                            ],
+                            [
+                                1081,
+                                7
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                0,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "shown",
+            {
+                "_index": 228,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1308,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "sign",
+            {
+                "_index": 157,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                460,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "site",
+            {
+                "_index": 70,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                585,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "site’s",
+            {
+                "_index": 136,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                198,
+                                6
+                            ],
+                            [
+                                880,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "skip",
+            {
+                "_index": 108,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                993,
+                                4
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1455,
+                                4
+                            ],
+                            [
+                                1495,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "software,",
+            {
+                "_index": 28,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                204,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "solve",
+            {
+                "_index": 205,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1017,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "something",
+            {
+                "_index": 187,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                831,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "sounds",
+            {
+                "_index": 124,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                76,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "started.",
+            {
+                "_index": 96,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                890,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "static",
+            {
+                "_index": 139,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                224,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "step",
+            {
+                "_index": 115,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                1114,
+                                4
+                            ],
+                            [
+                                1122,
+                                4
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                264,
+                                4
+                            ],
+                            [
+                                272,
+                                4
+                            ],
+                            [
+                                761,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "step:",
+            {
+                "_index": 243,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1645,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "steps",
+            {
+                "_index": 238,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1520,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "store",
+            {
+                "_index": 135,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                187,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "straight",
+            {
+                "_index": 112,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                1036,
+                                8
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1533,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "stylish",
+            {
+                "_index": 51,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                377,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "taken.",
+            {
+                "_index": 186,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                817,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "technical",
+            {
+                "_index": 126,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                87,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "texts,",
+            {
+                "_index": 65,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                514,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "that",
+            {
+                "_index": 78,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                643,
+                                4
+                            ],
+                            [
+                                668,
+                                4
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                177,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "that,",
+            {
+                "_index": 87,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                745,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "the",
+            {
+                "_index": 40,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                308,
+                                3
+                            ],
+                            [
+                                421,
+                                3
+                            ],
+                            [
+                                442,
+                                3
+                            ],
+                            [
+                                998,
+                                3
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                243,
+                                3
+                            ],
+                            [
+                                320,
+                                3
+                            ],
+                            [
+                                402,
+                                3
+                            ],
+                            [
+                                456,
+                                3
+                            ],
+                            [
+                                503,
+                                3
+                            ],
+                            [
+                                970,
+                                3
+                            ],
+                            [
+                                1023,
+                                3
+                            ],
+                            [
+                                1038,
+                                3
+                            ],
+                            [
+                                1064,
+                                3
+                            ],
+                            [
+                                1167,
+                                3
+                            ],
+                            [
+                                1215,
+                                3
+                            ],
+                            [
+                                1243,
+                                3
+                            ],
+                            [
+                                1270,
+                                3
+                            ],
+                            [
+                                1298,
+                                3
+                            ],
+                            [
+                                1317,
+                                3
+                            ],
+                            [
+                                1427,
+                                3
+                            ],
+                            [
+                                1636,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "then",
+            {
+                "_index": 173,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                675,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "think",
+            {
+                "_index": 123,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                67,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "this",
+            {
+                "_index": 12,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                69,
+                                4
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                756,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "this:",
+            {
+                "_index": 193,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                897,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "tiledocs",
+            {
+                "_index": 43,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                327,
+                                8
+                            ],
+                            [
+                                839,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "to",
+            {
+                "_index": 2,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                4,
+                                2
+                            ],
+                            [
+                                98,
+                                2
+                            ],
+                            [
+                                282,
+                                2
+                            ],
+                            [
+                                609,
+                                2
+                            ],
+                            [
+                                687,
+                                2
+                            ],
+                            [
+                                910,
+                                2
+                            ],
+                            [
+                                1045,
+                                2
+                            ],
+                            [
+                                1133,
+                                2
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                254,
+                                2
+                            ],
+                            [
+                                283,
+                                2
+                            ],
+                            [
+                                317,
+                                2
+                            ],
+                            [
+                                367,
+                                2
+                            ],
+                            [
+                                736,
+                                2
+                            ],
+                            [
+                                992,
+                                2
+                            ],
+                            [
+                                1343,
+                                2
+                            ],
+                            [
+                                1542,
+                                2
+                            ],
+                            [
+                                1633,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "too",
+            {
+                "_index": 125,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                83,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "tricky",
+            {
+                "_index": 182,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                775,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "type",
+            {
+                "_index": 159,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                474,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "unfamiliar",
+            {
+                "_index": 122,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                41,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "up",
+            {
+                "_index": 31,
+                "title": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                8,
+                                2
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                225,
+                                2
+                            ],
+                            [
+                                1089,
+                                2
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                8,
+                                2
+                            ],
+                            [
+                                465,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "updates",
+            {
+                "_index": 93,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                829,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "up”",
+            {
+                "_index": 151,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                413,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "url,",
+            {
+                "_index": 191,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                887,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "use",
+            {
+                "_index": 100,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                913,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "username",
+            {
+                "_index": 176,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                711,
+                                8
+                            ],
+                            [
+                                1405,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "username.",
+            {
+                "_index": 180,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                746,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "usernames",
+            {
+                "_index": 185,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                795,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "using",
+            {
+                "_index": 25,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                175,
+                                5
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1394,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "vary).",
+            {
+                "_index": 214,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1096,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "verification",
+            {
+                "_index": 219,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1149,
+                                12
+                            ],
+                            [
+                                1247,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "verify",
+            {
+                "_index": 197,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                938,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "verifying",
+            {
+                "_index": 232,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1365,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "want",
+            {
+                "_index": 99,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                905,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "we",
+            {
+                "_index": 98,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                902,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "website",
+            {
+                "_index": 17,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                124,
+                                7
+                            ],
+                            [
+                                385,
+                                7
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                231,
+                                7
+                            ],
+                            [
+                                331,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "we’ll",
+            {
+                "_index": 102,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                937,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "will",
+            {
+                "_index": 71,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                590,
+                                4
+                            ],
+                            [
+                                848,
+                                4
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                182,
+                                4
+                            ],
+                            [
+                                628,
+                                4
+                            ],
+                            [
+                                860,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "with",
+            {
+                "_index": 45,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                342,
+                                4
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                52,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "without",
+            {
+                "_index": 21,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                149,
+                                7
+                            ],
+                            [
+                                795,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "work",
+            {
+                "_index": 119,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                1204,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "worry.",
+            {
+                "_index": 129,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                119,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "worrying",
+            {
+                "_index": 90,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                803,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "write",
+            {
+                "_index": 39,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                285,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "writing",
+            {
+                "_index": 22,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                157,
+                                7
+                            ],
+                            [
+                                768,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "you",
+            {
+                "_index": 69,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                550,
+                                3
+                            ],
+                            [
+                                612,
+                                3
+                            ],
+                            [
+                                673,
+                                3
+                            ],
+                            [
+                                751,
+                                3
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1185,
+                                3
+                            ],
+                            [
+                                1440,
+                                3
+                            ],
+                            [
+                                1487,
+                                3
+                            ],
+                            [
+                                1587,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "you'll",
+            {
+                "_index": 14,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                81,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "you.",
+            {
+                "_index": 75,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                626,
+                                4
+                            ],
+                            [
+                                875,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "your",
+            {
+                "_index": 19,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                136,
+                                4
+                            ],
+                            [
+                                240,
+                                4
+                            ],
+                            [
+                                509,
+                                4
+                            ],
+                            [
+                                566,
+                                4
+                            ],
+                            [
+                                697,
+                                4
+                            ],
+                            [
+                                776,
+                                4
+                            ],
+                            [
+                                1092,
+                                4
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                11,
+                                4
+                            ],
+                            [
+                                193,
+                                4
+                            ],
+                            [
+                                219,
+                                4
+                            ],
+                            [
+                                344,
+                                4
+                            ],
+                            [
+                                434,
+                                4
+                            ],
+                            [
+                                479,
+                                4
+                            ],
+                            [
+                                529,
+                                4
+                            ],
+                            [
+                                875,
+                                4
+                            ],
+                            [
+                                1346,
+                                4
+                            ],
+                            [
+                                1375,
+                                4
+                            ],
+                            [
+                                1400,
+                                4
+                            ],
+                            [
+                                1545,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "you’ll",
+            {
+                "_index": 34,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/": {
+                        "position": [
+                            [
+                                256,
+                                6
+                            ]
+                        ]
+                    },
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                658,
+                                6
+                            ],
+                            [
+                                720,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "you’re",
+            {
+                "_index": 121,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                34,
+                                6
+                            ],
+                            [
+                                945,
+                                6
+                            ],
+                            [
+                                1001,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "“continue”",
+            {
+                "_index": 165,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                553,
+                                10
+                            ],
+                            [
+                                687,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "“create",
+            {
+                "_index": 169,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                607,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "“enter",
+            {
+                "_index": 163,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                522,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "“sign",
+            {
+                "_index": 150,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                407,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "“submit”",
+            {
+                "_index": 217,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                1121,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "“verify”",
+            {
+                "_index": 200,
+                "title": {},
+                "text": {
+                    "/publish-docs-github-pages/tutorial/setting-up-github-account/": {
+                        "position": [
+                            [
+                                975,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ]
+    ],
+    "pipeline": []
+}
